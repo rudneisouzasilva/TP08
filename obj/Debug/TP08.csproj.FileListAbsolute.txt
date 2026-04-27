@@ -1,0 +1,14 @@
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\bin\Debug\TP08.exe.config
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\bin\Debug\TP08.exe
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\bin\Debug\TP08.pdb
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\bin\Debug\ClassErro.dll
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\bin\Debug\ClassErro.pdb
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.csproj.AssemblyReference.cache
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.Disciplinas.resources
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.Properties.Resources.resources
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.csproj.GenerateResource.cache
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.csproj.CoreCompileInputs.cache
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.csproj.Up2Date
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.exe
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.pdb
+C:\Users\Rudnei.Souza\OneDrive - Senior Sistemas SA\Documentos\Pessoal\Rudnei\Unisanta\3º Semestre\Aplicações para desktop\TP08\obj\Debug\TP08.exe.config
