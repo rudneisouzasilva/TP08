@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ClassErro">
-      <HintPath>..\..\Aplicativos desktop\ClassErro\bin\Debug\ClassErro.dll</HintPath>
+      <HintPath>lib\ClassErro.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
